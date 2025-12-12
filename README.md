@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# April Quijano - QA Automation Engineer Portfolio
 
-## Getting Started
+![Portfolio Banner](/public/pictures/april-quijano-dp.jpg)
 
-First, run the development server:
+## 🚀 Overview
+
+Welcome to my professional portfolio repository. This project is a modern, responsive web application built with **Next.js 14** and **TypeScript**, designed to showcase my expertise in **QA Automation**, **End-to-End Testing**, and **Software Quality Assurance**.
+
+The portfolio features a dynamic **Bento Grid** layout, smooth **Framer Motion** animations, and an interactive project gallery to demonstrate my technical projects and case studies.
+
+## 🛠️ Tech Stack
+
+-   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+-   **Language:** [TypeScript](https://www.typescriptlang.org/)
+-   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+-   **Animations:** [Framer Motion](https://www.framer.com/motion/)
+-   **Icons:** [Lucide React](https://lucide.dev/)
+-   **Deployment:** [Vercel](https://vercel.com/)
+
+## ✨ Key Features
+
+-   **Responsive Design:** Optimized for all devices using Tailwind's utility-first classes.
+-   **Bento Grid Layout:** A modern, grid-based UI for organizing content effectively.
+-   **Interactive Lightbox:** Custom-built image viewer for inspecting project screenshots within the portfolio.
+-   **Performance Optimized:** Fast loading times and optimized assets.
+-   **Clean Architecture:** Modular component structure following React best practices.
+
+## 📂 Project Structure
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+├── app/
+│   ├── components/      # Reusable UI components (Hero, Projects, Skills, etc.)
+│   ├── layout.tsx       # Root layout configuration
+│   └── page.tsx         # Main entry point
+├── public/
+│   └── pictures/        # Static assets and project screenshots
+├── styles/              # Global styles
+└── README.md            # Project documentation
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Getting Started
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To run this project locally, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/aprilquijanop143-arch/my-portfolio.git
+    cd my-portfolio
+    ```
 
-## Learn More
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+3.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4.  **Open locally:**
+    Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧪 Featured Projects
 
-## Deploy on Vercel
+### E2E Web Automation Framework
+A robust test automation framework using **Playwright**, **TypeScript**, and **GitHub Actions**.
+-   **Key Tech:** Playwright, POM, Allure Reports, CI/CD
+-   **Repository:** [Link](https://github.com/aprilquijanop143-arch/Full-Web-App-Test-Automation-Framework-using-Playwright)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+*(More projects detailed within the application)*
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contact
+
+I am open to QA Automation opportunities. Feel free to reach out!
+
+-   **Email:** aprilquijanop143@gmail.com
+-   **GitHub:** [aprilquijanop143-arch](https://github.com/aprilquijanop143-arch)
+
+---
+
+© 2025 April Quijano. All Rights Reserved.
