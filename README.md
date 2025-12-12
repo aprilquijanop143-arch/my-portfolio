@@ -1,84 +1,70 @@
-# April Quijano - QA Automation Engineer Portfolio
+# April Quijano
+**QA Automation Engineer**
+📍 Philippines (Remote Ready)
 
-![Portfolio Banner](/public/pictures/april-quijano-dp.jpg)
-
-## 🚀 Overview
-
-Welcome to my professional portfolio repository. This project is a modern, responsive web application built with **Next.js 14** and **TypeScript**, designed to showcase my expertise in **QA Automation**, **End-to-End Testing**, and **Software Quality Assurance**.
-
-The portfolio features a dynamic **Bento Grid** layout, smooth **Framer Motion** animations, and an interactive project gallery to demonstrate my technical projects and case studies.
-
-## 🛠️ Tech Stack
-
--   **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
--   **Language:** [TypeScript](https://www.typescriptlang.org/)
--   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
--   **Animations:** [Framer Motion](https://www.framer.com/motion/)
--   **Icons:** [Lucide React](https://lucide.dev/)
--   **Deployment:** [Vercel](https://vercel.com/)
-
-## ✨ Key Features
-
--   **Responsive Design:** Optimized for all devices using Tailwind's utility-first classes.
--   **Bento Grid Layout:** A modern, grid-based UI for organizing content effectively.
--   **Interactive Lightbox:** Custom-built image viewer for inspecting project screenshots within the portfolio.
--   **Performance Optimized:** Fast loading times and optimized assets.
--   **Clean Architecture:** Modular component structure following React best practices.
-
-## 📂 Project Structure
-
-```bash
-├── app/
-│   ├── components/      # Reusable UI components (Hero, Projects, Skills, etc.)
-│   ├── layout.tsx       # Root layout configuration
-│   └── page.tsx         # Main entry point
-├── public/
-│   └── pictures/        # Static assets and project screenshots
-├── styles/              # Global styles
-└── README.md            # Project documentation
-```
-
-## 🚀 Getting Started
-
-To run this project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/aprilquijanop143-arch/my-portfolio.git
-    cd my-portfolio
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    npm install
-    # or
-    yarn install
-    ```
-
-3.  **Run the development server:**
-    ```bash
-    npm run dev
-    ```
-
-4.  **Open locally:**
-    Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
-
-## 🧪 Featured Projects
-
-### E2E Web Automation Framework
-A robust test automation framework using **Playwright**, **TypeScript**, and **GitHub Actions**.
--   **Key Tech:** Playwright, POM, Allure Reports, CI/CD
--   **Repository:** [Link](https://github.com/aprilquijanop143-arch/Full-Web-App-Test-Automation-Framework-using-Playwright)
-
-*(More projects detailed within the application)*
-
-## 📬 Contact
-
-I am open to QA Automation opportunities. Feel free to reach out!
-
--   **Email:** aprilquijanop143@gmail.com
--   **GitHub:** [aprilquijanop143-arch](https://github.com/aprilquijanop143-arch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/aprilquijanop143-arch) [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:aprilquijanop143@gmail.com)
 
 ---
 
-© 2025 April Quijano. All Rights Reserved.
+## 👩‍💻 Executive Summary
+Highly detail-oriented **Quality Assurance Engineer** with **3+ years of experience** ensuring the reliability, performance, and usability of Web, Mobile, and API applications.
+
+I help companies:
+*   ✅ Reduce production bugs
+*   ✅ Improve user experience
+*   ✅ Speed up release cycles
+*   ✅ Deliver stable, high-quality products
+
+*"I combine deep manual testing expertise, API testing, and lightweight automation to create a complete QA service that fits startups, enterprise teams, and freelance clients."*
+
+---
+
+## 🛠️ Technical Skills
+
+| Domain | Skills |
+| :--- | :--- |
+| **Automation** | Playwright, Selenium, Cypress, TestNG/JUnit |
+| **Languages** | TypeScript, JavaScript, Java, Python |
+| **API Testing** | Postman, REST Assured |
+| **Manual Testing** | Functional, Regression, Smoke, Exploratory, UI/UX |
+| **Mobile Testing** | Appium, Android, iOS |
+| **CI/CD & Tools** | GitHub Actions, Jenkins, Git, Jira, TestRail |
+| **Databases** | SQL, MySQL, PostgreSQL |
+
+---
+
+## 💼 Professional Projects
+
+### 🚀 E2E Web Automation Framework
+**Role:** QA Automation Engineer | **Stack:** Playwright, TypeScript, GitHub Actions
+*   Built a scalable Playwright framework from scratch using **Page Object Model (POM)**.
+*   Automated comprehensive UI test suites for SauceDemo (Smoke + Regression).
+*   Integrated **Allure Reporting** with screenshots and video artifacts.
+*   Implemented a multi-browser execution pipeline (Chromium, Firefox, WebKit) via **GitHub Actions**.
+*   **Artifacts:** [Source Code](https://github.com/aprilquijanop143-arch/Full-Web-App-Test-Automation-Framework-using-Playwright) • [CI Pipeline](https://github.com/aprilquijanop143-arch/Full-Web-App-Test-Automation-Framework-using-Playwright/actions)
+
+### �️ Full QA Cycle for E-Commerce Platform
+**Role:** QA Engineer | **Duration:** 8 months
+*   Conducted full feature testing: Login → Product Search → Cart → Checkout → Order.
+*   Performed end-to-end testing across **Web and Mobile** platforms.
+*   Verified APIs for product listing, user authentication, and payment processing.
+*   **Impact:** Prevented 3 critical checkout defects and improved customer success flow by 32%.
+
+### � Finance Mobile App (Android/iOS)
+**Role:** Mobile QA Tester | **Duration:** 6 months
+*   Validated critical flows including biometric login, secure transactions, and account management.
+*   Conducted security testing basics (permissions, data leakage checks).
+*   **Impact:** Detected a critical security bypass (fingerprint login skipping PIN) and fixed a crash affecting >20% of beta testers.
+
+### 🔌 API Testing Automation
+**Role:** QA Automation | **Stack:** Postman, JavaScript
+*   Automated complete testing workflows for Login, Profile Management, and Payments APIs.
+*   Wrote automated scripts using Postman and JavaScript.
+
+---
+
+## 📬 Contact
+Ready to improve your product quality? Let's discuss how I can help you deliver a bug-free experience.
+
+*   **Email:** [aprilquijanop143@gmail.com](mailto:aprilquijanop143@gmail.com)
+*   **GitHub:** [aprilquijanop143-arch](https://github.com/aprilquijanop143-arch)
